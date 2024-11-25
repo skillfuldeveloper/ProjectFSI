@@ -1,5 +1,5 @@
 ## ProjectFSI ##
-Disclaimer: Please note that all data used in this project is for educational and demonstration purposes only. If someone want to use this code for commercial purposes, they must share their modifications under the same license, i.e. GPL 3.0
+Disclaimer: Please note that all data used in this project is for educational and demonstration purposes only. If someone want to use this code for commercial purposes, they must share their modifications under the same license, i.e. GPL 3.0.
 
 ## Overview
 

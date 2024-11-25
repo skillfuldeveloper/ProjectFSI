@@ -1,9 +1,9 @@
-###ProjectFSI###
+## ProjectFSI ##
 Disclaimer: Please note that all data used in this project is for educational and demonstration purposes only. If someone want to use this code for commercial purposes, they must share their modifications under the same license, i.e. GPL 3.0
 
 ## Overview
 
-This project is a demo model replicating the Forest Survey of India (FSI) website. It aims to facilitate access to the forest survey database, surveys, reports, and projects for journalists, environmentalists, and research students.Initially 
+This project is a demo model replicating the Forest Survey of India (FSI) website. It aims to facilitate access to the forest survey database, surveys, reports, and projects for journalists, environmentalists, and research students. Initially 
 developed in Python in 2022, the project has expanded to include HTML, CSS, and JavaScript.
 
 ## Features

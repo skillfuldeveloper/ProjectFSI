@@ -15,7 +15,7 @@ developed in Python in 2022, the project has expanded to include HTML, CSS, and 
 ## Future Vision
 
  - Expanding the dataset to include multiple languages & government datasets.
- - Integrating satellite data and information from various organizations to create a more comprehensive resource.
+ - Integrating geo-spatial satellite data and information from various organizations to create a more comprehensive resource.
  - Enhancing features based on user feedback to improve accessibility and usability.
 
 ## Contributions
